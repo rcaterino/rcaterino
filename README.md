@@ -2,7 +2,9 @@
 rcaterino/rcaterino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-¡Hola! 👋 Soy un apasionado desarrollador web full stack con experiencia en Python y los frameworks Flask, FastAPI y Django. También manejo contenedores Docker y bases de datos relacionales como SQLite, MySQL y PostgreSQL.
+# Hola 👋, ¡bienvenido a mi perfil de GitHub!
+
+Soy un apasionado desarrollador web full stack con experiencia en Python y los frameworks Flask, FastAPI y Django. También manejo contenedores Docker y bases de datos relacionales como SQLite, MySQL y PostgreSQL.
 
 Además, tengo habilidades en frontend con JavaScript, React, Next.js y Bootstrap. ¡Puedo crear aplicaciones web completas desde cero! 🚀
 
