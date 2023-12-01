@@ -1,4 +1,4 @@
-###¡Hola! 👋
+### ¡Hola! 👋
 
 Soy Ricardo Caterino, un desarrollador web full-stack con amplia trayectoria en la gestión de proyectos de TI. Estoy familiarizado con herramientas de gestión de proyectos como Jira, Tello, Confluence, Notion y otras. 
 
