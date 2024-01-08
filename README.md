@@ -1,6 +1,8 @@
-# 💫 About Me:
+# Sobre mi:
 ¡Hola! 👋<br><br>Soy Ricardo Caterino, Desarrollador web full-stack, siempre ligado a la industria de la tecnología informática por 12+ años en proyectos de TI, específicamente en la automatización de procesos administrativos, comerciales y de producción con la implementación de Software ERP. <br><br>Me considero capaz de trabajar en equipo y aprender rápidamente cosas complejas. 😊
 
+# About me:
+Hello! 👋<br><br>I am Ricardo Caterino, Full-stack web developer, always linked to the information technology industry for 12+ years in IT projects, specifically in the automation of administrative, commercial and production processes with the implementation of ERP Software. <br><br>I consider myself capable of working as a team and quickly learning complex things. 😊
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaterino)
