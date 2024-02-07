@@ -1,8 +1,15 @@
-# Sobre mi:
-¡Hola! 👋<br><br>Soy Ricardo Caterino, Desarrollador web full-stack, siempre ligado a la industria de la tecnología informática por 12+ años en proyectos de TI, específicamente en la automatización de procesos administrativos, comerciales y de producción con la implementación de Software ERP. <br><br>Me considero capaz de trabajar en equipo y aprender rápidamente cosas complejas. 😊
+Desarrollador Fullstack, especializado en soluciones robustas y escalables utilizando tecnologías como Python, Flask, Django, JavaScript, React, Node.js y Express.js. Con amplia trayectoria como especialista en la implementación de Software ERP y la integración de sistemas para automatizar procesos administrativos, comerciales y de producción, garantizando cumplimiento de requisitos y transiciones fluidas. 
 
-# About me:
-Hello! 👋<br><br>I am Ricardo Caterino, Full-stack web developer, always linked to the information technology industry for 12+ years in IT projects, specifically in the automation of administrative, commercial and production processes with the implementation of ERP Software. <br><br>I consider myself capable of working as a team and quickly learning complex things. 😊
+Apasionado por impulsar la innovación en la industria tecnológica, enfocado en la optimización de procesos y la mejora de la eficiencia empresarial. 🚀💼
+
+Con Amplia experiencia en proyectos de TI, especializado en automatización de procesos administrativos, comerciales y de producción con implementación de Software ERP y integración de sistemas.
+
+✓ Liderazgo en la implementación exitosa de sistemas ERP, garantizando cumplimiento con requisitos específicos y transiciones fluidas para los equipos de usuarios finales.
+✓ Gestión efectiva de actualizaciones y mejoras del sistema ERP, resolviendo problemas técnicos y adaptando el sistema según las necesidades de la organización.
+✓ Impartición de capacitación integral a usuarios y generación de documentación detallada para optimizar el uso del sistema ERP.
+✓ Colaboración con diversos departamentos para optimizar procesos de acuerdo con necesidades específicas y liderazgo en la migración de datos desde sistemas antiguos, asegurando integridad y precisión.
+
+¡Conectemos y revolucionemos juntos el mundo del desarrollo de software y la automatización empresarial! 💼🌟
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaterino)
