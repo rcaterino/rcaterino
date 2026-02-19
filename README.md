@@ -1,59 +1,63 @@
-Desarrollador Fullstack, especializado en soluciones robustas y escalables utilizando tecnologías como Python, Flask, Django, JavaScript, React, Node.js y Express.js. Con amplia trayectoria como especialista en la implementación de Software ERP y la integración de sistemas para automatizar procesos administrativos, comerciales y de producción, garantizando cumplimiento de requisitos y transiciones fluidas. 
+# Hi there, I'm Ricardo Caterino 👋
 
-Apasionado por impulsar la innovación en la industria tecnológica, enfocado en la optimización de procesos y la mejora de la eficiencia empresarial. 🚀💼
+### Senior Frontend Engineer | DX Architect | AI Solutions Architect
 
-Con Amplia experiencia en proyectos de TI, especializado en automatización de procesos administrativos, comerciales y de producción con implementación de Software ERP y integración de sistemas.
+I am a **Senior Frontend Engineer** and **AI Solutions Architect** specializing in building high-performance web ecosystems and industrializing the development of **Intelligent Agents**. With a deep focus on **Developer Experience (DX)** and automation, I bridge the gap between frontend architecture, modern DevOps, and LLM-powered solutions.
 
-✓ Liderazgo en la implementación exitosa de sistemas ERP, garantizando cumplimiento con requisitos específicos y transiciones fluidas para los equipos de usuarios finales.
-✓ Gestión efectiva de actualizaciones y mejoras del sistema ERP, resolviendo problemas técnicos y adaptando el sistema según las necesidades de la organización.
-✓ Impartición de capacitación integral a usuarios y generación de documentación detallada para optimizar el uso del sistema ERP.
-✓ Colaboración con diversos departamentos para optimizar procesos de acuerdo con necesidades específicas y liderazgo en la migración de datos desde sistemas antiguos, asegurando integridad y precisión.
-
-¡Conectemos y revolucionemos juntos el mundo del desarrollo de software y la automatización empresarial! 💼🌟
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rcaterino)
-
-# 💻 Tech Stack:
-
-- **Frontend:** <br><br>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)   ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)  ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-- **Backend:** <br><br>
-   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-- **Bases de Datos:** <br><br>
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-- **Herramientas DevOps:** <br><br>
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rcaterino&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I lead technical strategy for enterprise-scale platforms, ranging from large-scale Design Systems to domesticating AI agents for specialized corporate workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rcaterino&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🤖 AI Architectural Strategy
+
+I provide strategic support and architectural design for end-to-end AI solutions:
+*   **Intelligent Agent Orchestration**: Designing the deployment strategy for custom agents using **Google Vertex AI** and specialized LLMs.
+*   **High-End API Architecture**: Supporting backend teams in building and deploying scalable **FastAPI** (Python) systems, ensuring seamless integration with modern frontends.
+*   **Enterprise Infrastructure**: Strategic advisor for containerized deployments via **Azure Container Registry (ACR)** and robust cloud architectures using **Docker** and **PostgreSQL**.
+
+---
+
+### 🚀 Key Expertise & Technical Ownership
+
+*   **🎨 Enterprise Design Systems**: Architect and owner of React-based component libraries (70+ components). Focus on design tokens, multi-theme support, and seamless cross-product integration.
+*   **🛠️ Frontend Framework Specialist**: Expert in building complex applications with **Next.js** and **React Router (Data APIs/Loaders)**, focused on performance and state management.
+*   **📦 Shared SDKs & Libraries**: Lead for internal tools that standardize authentication and core data patterns across company-wide engineering teams.
+
+---
+
+### 💻 Tech Stack & Expertise
+
+**High-End Frontend**
+*   **Core**: React 19, **Next.js**, Vite, TypeScript, **React Router (Data Mode)**.
+*   **UI/UX**: Tailwind CSS 4, Framer Motion, Radix UI, Shadcn UI.
+*   **Patterns**: Functional Leadership, Result-based error handling, Container/Presentation separation.
+
+**Architecture, DX & DevOps**
+*   **Monorepos**: Lerna, Nx, PNPM Workspaces.
+*   **Quality Gating**: Biome (Ultra-fast lint/format), Commitlint, Husky.
+*   **CI/CD**: Azure DevOps (YAML), GitHub Actions (Automation).
+*   **Testing**: Vitest, Playwright E2E, React Testing Library.
+
+**AI-Native Development**
+*   **SDLC Optimization**: Pioneer in **AI-Native DX**, designing self-documenting workflows and specialized agent rules ([AGENTS.md](cci:7://file:///c:/tfs/PublicisSDKs/AGENTS.md:0:0-0:0)) to automate technical overhead.
+
+---
+
+### 📊 My Philosophy: Engineering for Quality
+
+I believe great software is the result of robust architecture and intentional automation:
+- 🧪 **Automated Standards**: Moving quality checks (linting, testing, formatting) as far left as possible.
+- 🔄 **Consistency First**: Reducing cognitive load through predictable orchestration and standard tooling.
+- 🤖 **Developer Empowerment**: Building tools that allow developers to focus on features, not configuration.
+
+---
+
+### 📫 Let's Connect
+
+*   **Role**: Senior Frontend Engineer / AI Solutions Architect
+*   **Focus**: Scalable Architectures, DX & Generative AI
+*   **Location**: Spain 🇪🇸
+
+---
+
+> *"Focus on what makes your product unique, automate everything else."*
